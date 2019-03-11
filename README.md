@@ -1,6 +1,7 @@
 # Q-Learning-Exercise
 An example of a successful Q learning algorithm. This project was made as part of my Intelligent Systems Module.
-This Example implements a Q-learning algorithm on a grid world of varying states, as shown by the diagram below.
+This Example implements a Q-learning algorithm on a grid world of varying states and a goal (marked G on state 2) as shown by the diagram below.
+
 ![GridWorld](https://github.com/TheElectricFlock/Q-Learning-Exercise/blob/master/GridWorld.png)
 
 ## Usage
